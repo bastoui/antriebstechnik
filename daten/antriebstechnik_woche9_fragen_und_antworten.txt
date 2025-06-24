@@ -1,0 +1,7 @@
+Woche 9 – CVT & Fluidische Antriebe;Warum hat man für KFZ-CVTs Keilriemen aus Stahl entwickelt?;Stahlkeilriemen sind hoch belastbar, verschleißarm und ermöglichen hohe Drehmomentübertragung.
+Woche 9 – CVT & Fluidische Antriebe;Welche Einsatzbedingungen zerstören CVTs schnell?;Hohe Temperaturen, falsche Schmierung, Überlastung und zu schnelles Anfahren.
+Woche 9 – CVT & Fluidische Antriebe;Wirkungsgrad moderner CVT-Getriebe?;Etwa 85 % bis 92 %.
+Woche 9 – CVT & Fluidische Antriebe;Unterschied zwischen hydrostatischer und hydrodynamischer Leistungsübertragung?;Hydrostatisch: Volumenstrom-basiert, direkt; hydrodynamisch: Drehmomentübertragung über Strömung.
+Woche 9 – CVT & Fluidische Antriebe;Warum ist pneumatische Leistungsübertragung meist auf 10 bar begrenzt?;Wegen Sicherheitsanforderungen, Kompressibilität und Energieeffizienz.
+Woche 9 – CVT & Fluidische Antriebe;Welche 3 Bauformen hat der hydrodynamische Wandler?;Pumpenrad, Turbinenrad, Leitrad.
+Woche 9 – CVT & Fluidische Antriebe;Beispiel für Föttpinger-Wandler in der Praxis?;Automatikgetriebe in PKWs.

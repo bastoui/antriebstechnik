@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Antriebstechnik Quiz</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f4f4f4;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 { text-align: center; }
+    #frage-box {
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-bottom: 1rem;
+    }
+    input, button, select {
+      padding: 0.6rem;
+      margin: 0.5rem 0;
+      width: 100%;
+    }
+    .feedback.richtig { background: #c8e6c9; padding: 0.5rem; }
+    .feedback.falsch { background: #ffcdd2; padding: 0.5rem; }
+  </style>
+</head>
+<body>
+<h1>Antriebstechnik Quiz</h1>
+
+<select id="wochenwahl">
+  <option value="">Wähle eine Woche</option>
+  <option value="woche5">Woche 5</option>
+  <option value="woche6">Woche 6</option>
+  <option value="woche7">Woche 7</option>
+  <option value="woche8">Woche 8</option>
+  <option value="woche9">Woche 9</option>
+  <option value="woche10">Woche 10</option>
+  <option value="woche11">Woche 11</option>
+  <option value="woche12">Woche 12</option>
+</select>
+<select id="modus">
+  <option value="normal">Zufälliger Modus</option>
+  <option value="reihenfolge">Reihenfolge-Modus</option>
+</select>
+
+<div id="frage-box" style="display:none">
+  <h2 id="frage"></h2>
+  <input type="text" id="antwortEingabe" placeholder="Deine Antwort hier" />
+  <button onclick="pruefen()">Antwort prüfen</button>
+  <div id="feedback"></div>
+  <button onclick="naechsteFrage()">Nächste Frage</button>
+  <p id="fortschritt"></p>
+</div>
+
+<script>
+let fragen = [];
+let index = 0;
+let falschCounter = {};
+let reihenfolge = [];
+let mode = "normal";
+
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+document.getElementById("modus").addEventListener("change", function(e) {
+  mode = e.target.value;
+});
+
+document.getElementById("wochenwahl").addEventListener("change", function(e) {
+  const woche = e.target.value;
+  if (!woche) return;
+  fetch(`daten/antriebstechnik_${woche}_fragen_und_antworten.txt`)
+    .then(res => res.text())
+    .then(data => {
+      const lines = data.split('\n');
+      fragen = lines.map(l => {
+        const [thema, frage, antwort] = l.split(';');
+        return { thema, frage, antwort };
+      }).filter(f => f.frage && f.antwort);
+      reihenfolge = Array.from({length: fragen.length}, (_, i) => i);
+      if (mode === "normal") shuffle(reihenfolge);
+      index = 0;
+      falschCounter = {};
+      document.getElementById("frage-box").style.display = "block";
+      zeigeFrage();
+    });
+});
+
+function zeigeFrage() {
+  const f = fragen[reihenfolge[index]];
+  document.getElementById("frage").innerText = f.frage;
+  document.getElementById("antwortEingabe").value = "";
+  document.getElementById("feedback").innerText = "";
+  document.getElementById("feedback").className = "";
+  document.getElementById("fortschritt").innerText = `Frage ${index+1} von ${fragen.length}`;
+}
+
+function pruefen() {
+  const eingabe = document.getElementById("antwortEingabe").value.trim().toLowerCase();
+  const korrekt = fragen[reihenfolge[index]].antwort.trim().toLowerCase();
+  const feedback = document.getElementById("feedback");
+
+  if (eingabe === korrekt || korrekt.includes(eingabe)) {
+    feedback.innerText = "✔️ Richtig";
+    feedback.className = "feedback richtig";
+  } else {
+    feedback.innerText = `❌ Falsch – Richtige Antwort: ${fragen[reihenfolge[index]].antwort}`;
+    feedback.className = "feedback falsch";
+    falschCounter[reihenfolge[index]] = (falschCounter[reihenfolge[index]] || 0) + 1;
+  }
+}
+
+function naechsteFrage() {
+  if (mode === "normal") {
+    const falschSort = Object.entries(falschCounter).sort((a, b) => b[1] - a[1]).map(e => parseInt(e[0]));
+    if (index < reihenfolge.length - 1) {
+      index++;
+    } else if (falschSort.length > 0) {
+      reihenfolge = falschSort;
+      index = 0;
+      alert("Jetzt kommen deine Fehlerfragen erneut!");
+    } else {
+      alert("Alle Fragen beantwortet!");
+      return;
+    }
+  } else {
+    index++;
+    if (index >= reihenfolge.length) {
+      alert("Alle Fragen durchlaufen!");
+      return;
+    }
+  }
+  zeigeFrage();
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+Woche 7 – Kompakt- & Zugmittelgetriebe;Wie heißen die drei Bauteile eines Harmonic Drive Getriebes?;Circular Spline, Flexspline, Wave Generator.
+Woche 7 – Kompakt- & Zugmittelgetriebe;Wie kann man im Zugmittelgetriebe An- und Abtrieb gegensinnig laufen lassen?;Durch Kreuzung des Zugmittels (z. B. Riemen).
+Woche 7 – Kompakt- & Zugmittelgetriebe;Warum gibt es im formschlüssigen Getriebe keinen Schlupf?;Weil Zähne direkt ineinandergreifen.
+Woche 7 – Kompakt- & Zugmittelgetriebe;Was ist Schlupf? Wie macht er sich bemerkbar?;Unterschied zwischen realer und theoretischer Bewegung, führt zu Leistungsverlust und Ungenauigkeit.
+Woche 7 – Kompakt- & Zugmittelgetriebe;Aus welchen 3 Schichten bestehen moderne Flachriemen?;Zugschicht, Deckschicht (Tragschicht), Reibbelag.
+Woche 7 – Kompakt- & Zugmittelgetriebe;Wie wird der Flachriemen daran gehindert, seitlich zu rutschen?;Durch ballige Riemenscheiben oder Führungen.
+Woche 7 – Kompakt- & Zugmittelgetriebe;Wo im Riementrieb ist die Riemenbelastung am größten?;Im Zugtrum – dort wird die gesamte Kraft übertragen.
+Woche 7 – Kompakt- & Zugmittelgetriebe;Wie schnell ist 200 m/s in km/h?;720 km/h.
+Woche 7 – Kompakt- & Zugmittelgetriebe;Welchen Wirkungsgrad haben Flach-/Keilriemenantriebe?;Zwischen 95 % und 98 %, abhängig von Spannung und Ausrichtung.
+Woche 7 – Kompakt- & Zugmittelgetriebe;Warum hat man Keilriemen erfunden?;Wegen besserer Selbsthemmung und Kraftübertragung bei kleinerem Platzbedarf.

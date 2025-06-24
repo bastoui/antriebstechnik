@@ -1,0 +1,11 @@
+Woche 11 – Hydraulikzylinder & Steuerung;Warum ist das Anlaufmoment aus dem Stillstand kleiner als das Betriebsmoment?;Wegen Reibung und Kompressibilität des Fluids am Anfang der Bewegung.
+Woche 11 – Hydraulikzylinder & Steuerung;Was ist ein Gleichgangzylinder?;Ein Zylinder, bei dem Kolben- und Stangenseite gleiche Fläche und damit gleiche Geschwindigkeit haben.
+Woche 11 – Hydraulikzylinder & Steuerung;Warum ist ein Plungerzylinder günstiger herzustellen?;Weil er nur eine Dichtung und keine Bohrung im Kolben benötigt.
+Woche 11 – Hydraulikzylinder & Steuerung;Warum braucht ein doppeltwirkender Zylinder andere Dichtungen?;Weil beide Seiten mit Druck beaufschlagt werden und gegenläufige Kräfte auftreten.
+Woche 11 – Hydraulikzylinder & Steuerung;Warum kann man bei Zylindern volumetrischen Wirkungsgrad ≈100% annehmen?;Weil kaum Leckage auftritt und das Volumen fast vollständig genutzt wird.
+Woche 11 – Hydraulikzylinder & Steuerung;Wie schnell kann sich ein hydraulischer Standardzylinder bewegen?;Mehrere Meter pro Sekunde, abhängig von Volumenstrom und Fläche.
+Woche 11 – Hydraulikzylinder & Steuerung;Warum wird Drosselung zur Geschwindigkeitseinstellung vermieden?;Wegen Energieverlust durch Wärme und schlechter Regelbarkeit.
+Woche 11 – Hydraulikzylinder & Steuerung;Warum sind Differentialzylinder ungeeignet für geschlossene Kreisläufe?;Weil sie unterschiedliche Volumenströme auf beiden Seiten erzeugen.
+Woche 11 – Hydraulikzylinder & Steuerung;Woran erkennt man einen offenen hydraulischen Kreislauf?;Am Tankanschluss zur Umgebung, stetiger Austausch mit Umgebung.
+Woche 11 – Hydraulikzylinder & Steuerung;Was ist ein hydraulisches Getriebe?;Ein System zur Übertragung von Leistung über Druck und Volumenstrom.
+Woche 11 – Hydraulikzylinder & Steuerung;Was ist Kavitation in der Hydraulikpumpe?;Dampfblasenbildung durch Unterdruck, die zu Schäden führen kann.

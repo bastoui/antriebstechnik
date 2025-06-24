@@ -1,0 +1,9 @@
+Woche 10 – Hydrostatik & Hydraulik;Was sind ‚hydrostatische Maschinen‘ – Pumpen oder Motoren?;Beides – es handelt sich um Maschinen zur Volumenstromwandlung, abhängig von Flussrichtung.
+Woche 10 – Hydrostatik & Hydraulik;Kann eine Axialkolbenmaschine als Motor und Pumpe arbeiten?;Ja, sie kann reversibel betrieben werden.
+Woche 10 – Hydrostatik & Hydraulik;Welche Druckstufen gibt es in der Hydrostatik?;Niederdruck (bis 50 bar), Mitteldruck (50–200 bar), Hochdruck (über 200 bar).
+Woche 10 – Hydrostatik & Hydraulik;Sind die Prinzipien hydrostatischer Antriebe neu?;Nein, sie sind seit über 100 Jahren bekannt, aber technisch weiterentwickelt.
+Woche 10 – Hydrostatik & Hydraulik;Drei Bauarten von Axialkolbenmaschinen?;Schrägscheiben-, Taumelscheiben- und Schrägachsenbauart.
+Woche 10 – Hydrostatik & Hydraulik;Wie verringert man Reibung zwischen Kolben und Schräg-/Taumelscheibe?;Durch hydrostatische Lagerung oder Schmierfilme.
+Woche 10 – Hydrostatik & Hydraulik;Warum sind Schrägachsenmaschinen effizienter?;Weniger bewegte Massen und bessere Kräfteverhältnisse.
+Woche 10 – Hydrostatik & Hydraulik;Wo im Auto sind hydraulische Maschinen verbaut?;Z. B. in Servolenkung, Bremssystemen oder Automatikgetrieben.
+Woche 10 – Hydrostatik & Hydraulik;Woran erkennt man bei Flügelzellenmaschinen Pumpe vs. Motor?;An der Flussrichtung und Lage der Druckanschlüsse.

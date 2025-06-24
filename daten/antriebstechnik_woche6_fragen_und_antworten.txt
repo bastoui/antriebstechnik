@@ -1,0 +1,9 @@
+Woche 6 – Mechanische Getriebe (Teil 2);Gründe für den schlechteren Wirkungsgrad von Kegelrädern?;Gleitanteile an den Zahnflanken und schwierige Schmierung.
+Woche 6 – Mechanische Getriebe (Teil 2);Grund für den schlechten Wirkungsgrad von Schneckenrädern?;Hoher Gleitanteil zwischen Schnecke und Rad verursacht Reibungsverluste.
+Woche 6 – Mechanische Getriebe (Teil 2);Woran erkennt man ein Standgetriebe (Vorgelegegetriebe)?;An der festen Position im Antriebsstrang zwischen Motor und Arbeitsmaschine.
+Woche 6 – Mechanische Getriebe (Teil 2);Wo findet man außer in Getrieben noch geometrische Stufung?;In Riemenscheiben, Kettenrädern oder Trommeln.
+Woche 6 – Mechanische Getriebe (Teil 2);Woran erkennt man ein Planetgetriebe?;An der Anordnung: Sonnenrad, Planetenräder und Hohlrad (Ringrad).
+Woche 6 – Mechanische Getriebe (Teil 2);Nenne die 4 wichtigsten Bauteile im Planetgetriebe.;Sonnenrad, Planetenräder, Hohlrad, Planetenträger.
+Woche 6 – Mechanische Getriebe (Teil 2);Wie funktioniert ein Planetgetriebe als Differential?;Drehmoment wird auf mehrere Ausgänge verteilt, unterschiedliche Drehzahlen möglich.
+Woche 6 – Mechanische Getriebe (Teil 2);Auf welche 3 Arten kann man Planetgetriebe koppeln?;Seriell, parallel, koaxial.
+Woche 6 – Mechanische Getriebe (Teil 2);Was ist ein Ravigneaux-Satz?;Ein zusammengesetztes Planetengetriebe mit zwei Sonnenrädern und gemeinsamen Planetenrädern.

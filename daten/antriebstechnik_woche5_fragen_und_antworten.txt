@@ -1,0 +1,9 @@
+Woche 5 – Mechanische Getriebe (Teil 1);Welche 3 Formen von Leistungswandlung gibt es im Bereich der mechanischen Getriebe?;Drehmoment- und Drehzahlwandlung, Richtungsänderung, Ortsverlagerung der Bewegung.
+Woche 5 – Mechanische Getriebe (Teil 1);Welche 3 grundlegende Bauarten von mechanischen Leistungswandlern gibt es?;Zahnradgetriebe, Zugmittelgetriebe, Reibgetriebe.
+Woche 5 – Mechanische Getriebe (Teil 1);Welche Räderpaare gibt es in Zahnradgetrieben?;Außenverzahnung, Innenverzahnung, Stirn- und Kegelradpaarungen.
+Woche 5 – Mechanische Getriebe (Teil 1);Wie berechnet man die Übersetzung eines Zahnradpaares?;i = z2 / z1 = d2 / d1 (Zähnezahl bzw. Teilkreisdurchmesser).
+Woche 5 – Mechanische Getriebe (Teil 1);Welchen Wert müssen wir messen, um den Wirkungsgrad eines Zahnradpaares zu ermitteln?;Verlustleistung oder Ein- und Ausgangsleistung.
+Woche 5 – Mechanische Getriebe (Teil 1);Welche 5 Zahnformen werden bis heute in Zahnradgetrieben verwendet?;Evolventenverzahnung, Zykloidenverzahnung, Schraubverzahnung, Pfeilverzahnung, Kreisbogenverzahnung.
+Woche 5 – Mechanische Getriebe (Teil 1);Welche Verzahnungsformen gibt es?;Gerad-, Schräg-, Bogen- und Pfeilverzahnung.
+Woche 5 – Mechanische Getriebe (Teil 1);Was sagt der ‚Modul‘ einer Verzahnung aus?;Der Modul beschreibt die Größe der Zähne, berechnet als Teilkreisdurchmesser geteilt durch die Zähnezahl.
+Woche 5 – Mechanische Getriebe (Teil 1);Müssen beide Zahnräder eines Zahnradpaares den gleichen Modul haben?;Ja, damit sie korrekt ineinandergreifen können.

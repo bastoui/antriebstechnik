@@ -1,0 +1,9 @@
+Woche 8 – Ketten- & Zahnriementriebe;Welche zwei grundlegenden Kettenbauarten gibt es?;Rollenkette und Hülsenkette.
+Woche 8 – Ketten- & Zahnriementriebe;Warum darf eine Kette nur gestrafft, nicht fest vorgespannt werden?;Eine zu starke Vorspannung führt zu erhöhtem Verschleiß und Schäden an Lagerung und Gliedern.
+Woche 8 – Ketten- & Zahnriementriebe;Warum gibt es den Polygoneffekt bei Ketten, nicht aber bei Flach-/Keilriemen?;Weil Ketten auf Kettenrädern mit festen Gliedern laufen und keine kontinuierliche Umwicklung haben.
+Woche 8 – Ketten- & Zahnriementriebe;Warum können Ketten nur langsam laufen?;Wegen Geräuschentwicklung, Schwingungen und hoher Massenkräfte bei höheren Geschwindigkeiten.
+Woche 8 – Ketten- & Zahnriementriebe;Wie verhindert man, dass Ketten seitlich herunterwandern?;Durch Führungsschienen oder spezielle Kettenführungen.
+Woche 8 – Ketten- & Zahnriementriebe;Warum verursachen Ketten Geräusche und Schwingungen?;Durch das Ein- und Auslaufen der Glieder in die Kettenräder (Stoßbeanspruchung).
+Woche 8 – Ketten- & Zahnriementriebe;Welche zwei Zahnriemenarten gibt es?;Zahnriemen mit trapezförmigem und mit rundem Zahnprofil.
+Woche 8 – Ketten- & Zahnriementriebe;Wie verhindert man das seitliche Herunterwandern von Zahnriemen?;Durch seitliche Führungen oder spezielle Zahnformen.
+Woche 8 – Ketten- & Zahnriementriebe;Warum sind Zahnriemen im Untermaß gefertigt?;Für optimalen Eingriff und Vorspannung ohne Schlupf.

@@ -1,0 +1,5 @@
+Woche 12 – Pneumatische Antriebe;Ist ein kolbenstangenloser Zylinder Gleichgang- oder Differentialzylinder?;Gleichgangzylinder – die Kolbenfläche ist auf beiden Seiten gleich.
+Woche 12 – Pneumatische Antriebe;Warum ist die Abluftdrosselung oft besser als die Zuluftdrosselung?;Weil sie gleichmäßigere Bewegungen erzeugt und besser kontrollierbar ist.
+Woche 12 – Pneumatische Antriebe;Wann ist Kompressibilität der Luft ein Vorteil?;Bei elastischen, schnellen Bewegungen und Stoßdämpfung.
+Woche 12 – Pneumatische Antriebe;Wann ist Kompressibilität der Luft ein Nachteil?;Bei präzisen Positionieraufgaben und gleichmäßiger Kraftübertragung.
+Woche 12 – Pneumatische Antriebe;Welcher Parameter erhöht das Drehmoment eines Pneumatikmotors?;Der Betriebsdruck (Versorgungsdruck).
