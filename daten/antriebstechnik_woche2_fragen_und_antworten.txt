@@ -1,0 +1,8 @@
+Woche 2 – Wirkungsgrad & Wärme;Wie lässt sich das Kennfeld vergrößern?;Durch Maßnahmen wie Turboaufladung, variable Steuerzeiten oder Hybridisierung.
+Woche 2 – Wirkungsgrad & Wärme;Welche weiteren Infos zur Auslegung sind nötig?;Lastprofile, Einschaltdauer, Umgebungsbedingungen, Temperaturgrenzen, Kühlkonzept.
+Woche 2 – Wirkungsgrad & Wärme;Gliederung der Verlustleistung?;Verlustleistung unterteilt sich in mechanische, elektrische, magnetische und thermische Verluste.
+Woche 2 – Wirkungsgrad & Wärme;Wirkungsgradformeln mit P1/P2 und Pv?;η = P2 / P1 bzw. η = 1 – Pv / P1.
+Woche 2 – Wirkungsgrad & Wärme;Ist Wirkungsgrad über der Drehzahl konstant?;Nein, der Wirkungsgrad ist drehzahl- und belastungsabhängig.
+Woche 2 – Wirkungsgrad & Wärme;Ist die Grenztemperatur kritisch fürs Getriebe?;Ja, Überschreitung kann zu Ölalterung, Materialermüdung und Ausfällen führen.
+Woche 2 – Wirkungsgrad & Wärme;Welche Bauteile sind betroffen?;Wälzlager, Dichtungen, Zahnflanken, Gehäuse und das Schmiermittel.
+Woche 2 – Wirkungsgrad & Wärme;Welche Maßnahmen kann man ergreifen?;Kühlung, Materialwahl, thermische Isolierung, Sensorik zur Überwachung.

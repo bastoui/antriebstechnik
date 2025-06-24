@@ -1,0 +1,11 @@
+Woche 4 – Elektrische Antriebe (Teil 2);Häufigster e-Motortyp + Grund?;DS-Asynchronmaschine, da robust, günstig und wartungsarm.
+Woche 4 – Elektrische Antriebe (Teil 2);Läufer DS-Asynchronmaschine?;Kurzschlussläufer (meistens Käfigläufer).
+Woche 4 – Elektrische Antriebe (Teil 2);Unterschiede zu DS-Synchronmaschine?;Synchronmaschine läuft ohne Schlupf, benötigt aber Erregung über Dauermagnete oder Stromzufuhr.
+Woche 4 – Elektrische Antriebe (Teil 2);Generatorbetrieb bei allen 3 Typen?;Ja, alle drei Motortypen können als Generator betrieben werden.
+Woche 4 – Elektrische Antriebe (Teil 2);Braucht DS-Asynchronmotor externe Regelung?;Nein, einfache Varianten brauchen keine Regelung, für variable Drehzahl ist ein Frequenzumrichter nötig.
+Woche 4 – Elektrische Antriebe (Teil 2);Konstruktive Erhöhung des Anlaufmoments?;Durch besondere Läuferausführung wie Doppelkäfigläufer.
+Woche 4 – Elektrische Antriebe (Teil 2);Warum ist das Anlassen schwierig?;Hohe Anlaufströme können das Netz belasten und mechanische Belastung verursachen.
+Woche 4 – Elektrische Antriebe (Teil 2);Möglichkeiten zum Anlassen?;Stern-Dreieck-Schaltung, Sanftanlaufgeräte, Frequenzumrichter.
+Woche 4 – Elektrische Antriebe (Teil 2);Warum ist der Wirkungsgrad höher als bei Gleichstrommotoren?;Weniger Reibung, keine Bürsten, optimierte Kühlung.
+Woche 4 – Elektrische Antriebe (Teil 2);Drehzahlverstellung DS-Synchronmotor?;Nur über Frequenzumrichter möglich.
+Woche 4 – Elektrische Antriebe (Teil 2);Bedeutung der Wirkungsgradklassen IE1–4?;Energieeffizienzklassen für Elektromotoren nach internationalen Normen – IE4 ist am effizientesten.

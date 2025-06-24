@@ -1,0 +1,14 @@
+Woche 3 – Elektrische Antriebe (Teil 1);Was ist „dynamisches Verhalten“?;Die zeitliche Reaktion eines Antriebs auf Änderungen von Sollwerten oder Störungen.
+Woche 3 – Elektrische Antriebe (Teil 1);Drei Hauptgruppen von Antrieben?;Gleichstrommaschinen, Asynchronmaschinen, Synchronmaschinen.
+Woche 3 – Elektrische Antriebe (Teil 1);Zwei Betriebsarten elektrischer Wandler?;Motorbetrieb und Generatorbetrieb.
+Woche 3 – Elektrische Antriebe (Teil 1);Welche Kraft erzeugt Drehmoment?;Die Lorentzkraft wirkt auf stromdurchflossene Leiter im Magnetfeld.
+Woche 3 – Elektrische Antriebe (Teil 1);Möglichkeiten zur Erzeugung des Magnetfeldes?;Dauermagnete, Elektromagnete mit Fremd- oder Selbsterregung.
+Woche 3 – Elektrische Antriebe (Teil 1);Eigen- vs. Fremdbelüftung?;Eigenbelüftung nutzt die Maschinenwelle, Fremdbelüftung verwendet einen externen Lüfter.
+Woche 3 – Elektrische Antriebe (Teil 1);Problem bei Durchzugsbelüftung?;Verunreinigung und erhöhter Wartungsaufwand.
+Woche 3 – Elektrische Antriebe (Teil 1);Zweite Ziffer der IP-Schutzklasse?;Gibt den Schutz gegen Wasser an (z. B. Tropfwasser, Strahlwasser).
+Woche 3 – Elektrische Antriebe (Teil 1);Drei Grundtypen elektrischer Maschinen?;Gleichstrommaschine, Synchronmaschine, Asynchronmaschine.
+Woche 3 – Elektrische Antriebe (Teil 1);Zwei Erregungsarten bei Gleichstrommotoren?;Fremderregt und selbsterregt.
+Woche 3 – Elektrische Antriebe (Teil 1);Was bedeuten Neben- und Reihenschluss?;Verschaltung von Erregerwicklung und Ankerwicklung entweder parallel (Nebenschluss) oder in Reihe (Reihenschluss).
+Woche 3 – Elektrische Antriebe (Teil 1);Wieviele Leistungsverluste bei Gleichstrommotor?;Vier: elektrische Verluste, mechanische Verluste, magnetische Verluste, zusätzliche Verluste.
+Woche 3 – Elektrische Antriebe (Teil 1);Wirkungsgradbereich?;Typisch 70 % bis über 90 % im optimalen Betriebspunkt.
+Woche 3 – Elektrische Antriebe (Teil 1);Zwei Arten von Kommutierung?;Mechanisch (über Bürsten) und elektronisch (bei bürstenlosen Motoren).

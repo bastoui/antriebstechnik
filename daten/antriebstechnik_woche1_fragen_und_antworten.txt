@@ -1,0 +1,11 @@
+Woche 1 – Einführung & Grundlagen;Wo im Skript finde ich Hinweise auf weiterführende hilfreiche Literatur?;Im Vorwort des Skripts sowie in einzelnen Kapiteln am Rand und in Fußnoten.
+Woche 1 – Einführung & Grundlagen;In welche 3 Bereiche der Leistungswandler (nach Art der Energieübertragung) ist die Veranstaltung gegliedert?;Mechanische, elektrische und fluidische Leistungswandler.
+Woche 1 – Einführung & Grundlagen;Ist die Antriebstechnik ein stagnierender Industriezweig?;Nein, sie ist ein dynamisch wachsender Bereich, z. B. durch E-Mobilität.
+Woche 1 – Einführung & Grundlagen;Warum führen die mechanischen Leistungswandler in den Umsatzzahlen vor den anderen beiden Arten?;Weil sie in fast allen Maschinen eingesetzt werden und große Stückzahlen erreichen.
+Woche 1 – Einführung & Grundlagen;Gehört der Smoothie-Mixer zum Fall 1 oder Fall 2 des Aufbaus von Antriebssträngen? Begründe.;Fall 1, da Energiequelle und Wandler im selben Gerät integriert sind.
+Woche 1 – Einführung & Grundlagen;Gehört ein benzinbetriebener Stromgenerator fürs Camping zum Fall 1 oder Fall 2? Begründe.;Fall 2, da Antriebsquelle (Motor) und Wandler (Generator) getrennt sind.
+Woche 1 – Einführung & Grundlagen;Wie kann man eine drehende Leistung aus Moment und Drehzahl berechnen?;P = M × ω (Leistung = Drehmoment × Drehzahl).
+Woche 1 – Einführung & Grundlagen;Wie kann man eine translatorische Leistung aus Kraft und Geschwindigkeit berechnen?;P = F × v (Leistung = Kraft × Geschwindigkeit).
+Woche 1 – Einführung & Grundlagen;Ist die Nennleistung eines Verbrennungsmotors die maximale Leistung, die er abgeben kann?;Nein, sie ist die zulässige Dauerleistung unter festgelegten Bedingungen.
+Woche 1 – Einführung & Grundlagen;Wie hoch ist der maximale effektive Wirkungsgrad des Verbrennungsmotors (Kennfeld S. 14)?;Etwa 35–42 % im optimalen Betriebsbereich.
+Woche 1 – Einführung & Grundlagen;Wie hoch ist der Wirkungsgrad, wenn man mit 2500 U/min und mittlerem Drehmoment (we = 0,4) auf der Autobahn fährt?;Ungefähr 30–35 %, laut Kennfeld (siehe Skript S. 14).
