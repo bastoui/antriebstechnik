@@ -34,6 +34,10 @@
 
 <select id="wochenwahl">
   <option value="">Wähle eine Woche</option>
+  <option value="woche1">Woche 1</option>
+  <option value="woche2">Woche 2</option>
+  <option value="woche3">Woche 3</option>
+  <option value="woche4">Woche 4</option>
   <option value="woche5">Woche 5</option>
   <option value="woche6">Woche 6</option>
   <option value="woche7">Woche 7</option>
@@ -52,6 +56,7 @@
   <h2 id="frage"></h2>
   <input type="text" id="antwortEingabe" placeholder="Deine Antwort hier" />
   <button onclick="pruefen()">Antwort prüfen</button>
+  <button onclick="zeigeAntwort()">Antwort anzeigen</button>
   <div id="feedback"></div>
   <button onclick="naechsteFrage()">Nächste Frage</button>
   <p id="fortschritt"></p>
@@ -63,6 +68,10 @@ let index = 0;
 let falschCounter = {};
 let reihenfolge = [];
 let mode = "normal";
+
+function normalize(text) {
+  return text.toLowerCase().replace(/[^\wäöüß ]+/g, '').trim();
+}
 
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
@@ -105,11 +114,13 @@ function zeigeFrage() {
 }
 
 function pruefen() {
-  const eingabe = document.getElementById("antwortEingabe").value.trim().toLowerCase();
-  const korrekt = fragen[reihenfolge[index]].antwort.trim().toLowerCase();
+  const eingabe = normalize(document.getElementById("antwortEingabe").value);
+  const korrekt = normalize(fragen[reihenfolge[index]].antwort);
   const feedback = document.getElementById("feedback");
 
-  if (eingabe === korrekt || korrekt.includes(eingabe)) {
+  const richtig = korrekt.includes(eingabe) || eingabe.includes(korrekt) || gemeinsameWoerter(eingabe, korrekt) >= 3;
+
+  if (richtig) {
     feedback.innerText = "✔️ Richtig";
     feedback.className = "feedback richtig";
   } else {
@@ -117,6 +128,18 @@ function pruefen() {
     feedback.className = "feedback falsch";
     falschCounter[reihenfolge[index]] = (falschCounter[reihenfolge[index]] || 0) + 1;
   }
+}
+
+function zeigeAntwort() {
+  const feedback = document.getElementById("feedback");
+  feedback.innerText = `ℹ️ Antwort: ${fragen[reihenfolge[index]].antwort}`;
+  feedback.className = "";
+}
+
+function gemeinsameWoerter(a, b) {
+  const wa = a.split(" ");
+  const wb = b.split(" ");
+  return wa.filter(w => wb.includes(w)).length;
 }
 
 function naechsteFrage() {
